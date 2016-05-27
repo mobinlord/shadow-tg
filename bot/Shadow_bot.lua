@@ -246,7 +246,7 @@ My admins⤵⤵
 💢@Xx_SilenT_xX [Manager]💢
 
 Our channel👇👇
-@Shadowking_CH]]],
+@Shadowking_CH]],
     help_text_realm = [[
 Realm Commands:
 ➖➖➖➖➖➖➖➖➖
