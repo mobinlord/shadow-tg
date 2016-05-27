@@ -243,7 +243,8 @@ My admins⤵⤵
 💢@redteam_01_13 [founder&Developer]💢
 💢@shadowteam_admin [Developer]💢
 💢@fuck_this_life_W [Developer]💢
-💢@Xx_SilenT_xX [Manager]💢
+💢@Xx_SilenT_xX [Developer]💢
+💢@SHO_OKER_ADMIN [Manager]
 💢@OwsIa [Sudo]💢
 
 Our channel👇👇
