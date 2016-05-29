@@ -235,11 +235,12 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {219339258,1165472,176972874,175636120,223600877},--Sudo users
+    sudo_users = {219339258,1165472,176972874,175636120,223600877,150061215},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[💢shadowking v2.1
 Writed in tg-cli
 My admins⤵⤵
+💢@Pokeram_heh [Manager]💢
 💢@redteam_01_13 [founder&Developer]💢
 💢@shadowteam_admin [Developer]💢
 💢@fuck_this_life_W [Developer]💢
